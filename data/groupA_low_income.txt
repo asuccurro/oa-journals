@@ -12,9 +12,9 @@ Cameroon
 Central African Republic
 Chad
 Comoros
-Congo
-Congo, Democratic Republic of the
-Côte d’Ivoire
+Congo, Rep.
+Congo, Dem. Rep.
+Cote d'Ivoire
 Djibouti
 Equatorial Guinea
 Eritrea
@@ -27,7 +27,7 @@ Guinea-Bissau
 Haiti
 Kenya
 Kiribati
-Korea, Democratic People’s Republic of
+North Korea
 Kyrgyzstan
 Lao People’s Democratic Republic
 Lesotho
@@ -38,7 +38,7 @@ Mali
 Marshall Islands
 Mauritania
 Micronesia (Federated States of)
-Moldova (Republic of)
+Moldova
 Mozambique
 Myanmar
 Nepal
@@ -54,9 +54,9 @@ Solomon Islands
 Somalia
 South Sudan
 Sudan
-Syrian Arab Republic
+Syria
 Tajikistan
-Tanzania, United Republic of
+Tanzania
 Timor-Leste
 Togo
 Tokelau

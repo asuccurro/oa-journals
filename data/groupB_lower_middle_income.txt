@@ -4,7 +4,7 @@ Antigua and Barbuda
 Armenia
 Azerbaijan
 Belarus
-Bolivia (Plurinational State of)
+Bolivia
 Bosnia and Herzegovina
 Botswana
 Cook Islands
@@ -49,4 +49,4 @@ Ukraine
 Uzbekistan
 Venezuela
 Vietnam
-West Bank and Gaza Strip
+West Bank and Gaza
