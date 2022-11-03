@@ -1,7 +1,7 @@
 # Analysis of Open Access publications
 
 Analysis of data on scientific articles published in OA. 
-Originally designed for our Science for Democracy contribution to the (UCL Open Science Conference 2021)[https://blogs.ucl.ac.uk/open-access/2021/03/26/conference-2021-programme/]:
+Originally designed for our Science for Democracy contribution to the [UCL Open Science Conference 2021](https://blogs.ucl.ac.uk/open-access/2021/03/26/conference-2021-programme/):
 
 *Laura Convertino, Federico Binda, Claudia Basta & Antonella Succurro*
 
