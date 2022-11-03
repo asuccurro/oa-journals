@@ -25,7 +25,7 @@ This code uses Python 3 and various external packages
 ### Install the Conda environment
 
 ```bash
-conda create -n ucl python=3.6 numpy scipy pandas seaborn matplotlib scikit-learn nb_conda
+conda create -n oa python=3.6 numpy scipy pandas seaborn matplotlib scikit-learn nb_conda
 ```
 
 
